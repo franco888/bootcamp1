@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+	<title>my web</title>
+	<link rel="stylesheet"type""text/css" hrefs="_/css/stylesheet.css"
+	</head>
+	<body>
+	<nav>
+		<ul>
+		<li><a href="#">Home</a></li>
+		<li><a href"#"Animals</a>
+
+		</ul>
+</li>
+	<ul>
+	<li><a href="#">Cats</a></li>
+	<li><a href="#">Dogs</a></li>
+	<li><a href="#">Fish</a></li>
+		</ul>
+		</li><a href="#">Articles</a>
+		<ul>
+		<li><a href="#">Biology</a></li>
+		<li><a href="#">Technology</a></li>
+		</ul>
+		</ui><a href="#">about Me</a></li>
+		</ul>
+		</nav>
+
+		</body>
+		</html>
+
+
